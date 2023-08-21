@@ -37,7 +37,7 @@ function App() {
   return (
     <main>
       <div className='section-title'>
-        <h1>{loading ? 'loading...' : 'pagination'}</h1>
+        <h1>{loading ? 'loading...' : 'Github Profile Pagination'}</h1>
         <div className='underline'></div>
       </div>
       <section className='followers'>
